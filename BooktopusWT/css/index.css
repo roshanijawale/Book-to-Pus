@@ -1,0 +1,122 @@
+.login-box{
+    width:280px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+} 
+
+.login-box h1{
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 3px solid;
+    margin-bottom: 50px;
+    padding: 13px 0;
+
+}
+.textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size:20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 2px solid;
+}
+.textbox i{
+    width:26px;
+    float: left;
+    text-align: center;
+}
+.textbox select{
+    background: none;
+    outline: none;
+    border: none;
+    color: white;
+}
+.textbox select option{
+    background: none;
+    outline: none;
+    border: none;
+    color: black;
+}
+.textbox input{
+    background: none;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
+.btn{
+    width: 100%;
+    background: none;
+    border: 2px solid white;
+    color: white;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+}
+::placeholder{
+    color: white;
+}
+
+.sign{
+    
+    color: white;
+    margin-right: 5px; 
+    margin-left: 5px;
+    text-decoration: none; 
+}
+.hr{
+    border-right: 2px solid white;
+}
+.forgot{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.margin{
+    margin-top: 5px;
+    margin-left: 45px;
+}
+.header{
+    text-align: center;
+    color: white;
+    margin-top: 80px;
+}
+.signinlogin-box{
+    width:280px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+}   
+.signinlogin-box h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 90px;
+    border-bottom: 3px solid;
+    margin-bottom: 30px;
+    padding: 13px 0;
+
+}
+.logoname{
+    margin-left: 2px;
+}
+.FieldInfo{
+    color: rgb(251, 174, 44);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.2em;
+}
+.text{
+      font-weight: bold;
+      text-align: center;
+      font-size: 25px;
+      margin-top: 35px;
+}
+
